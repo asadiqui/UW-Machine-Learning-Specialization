@@ -26,7 +26,7 @@ bash THE_DOWNLOADED_SCRIPT -b -p NEW_FOLDER_TO_INSTALL_MAMBA
 mamba shell init
 ```
 
-4- Create a virtual environemnt with jupyter and python 3.8 (for turicreate)
+4- Create a virtual environment with jupyter and python 3.8 (for turicreate)
 ```shell
 mamba create -n ml python=3.8 jupyter -y
 ```
@@ -45,11 +45,11 @@ jupyter notebook
 ## NOTES
 1- ```Miniconda/Ananconda``` are a pain in the ass for a portable USB
 
-2- You can instead ```source /media/$USER/$USB_NAME/Mamba/etc/profile.d/conda.sh``` but you got to do it each time
+2- In step 3, you can instead ```source /media/$USER/$USB_NAME/Mamba/etc/profile.d/conda.sh``` but you got to do it each time
 
-3- The last python version supported by TuriCreate is ```python 3.8```, and Mamba can't find it, so it needs to be installed seperatly
+3- The last python version supported by TuriCreate is ```python 3.8```, and Mamba can't find TC, so it needs to be installed separately
 
-4- Step 4 will take minutes to complete
+4- Step 5 will take minutes to complete
 
 5- To see your current env run ```mamba info --envs``` (it's indicated with a *)
 
