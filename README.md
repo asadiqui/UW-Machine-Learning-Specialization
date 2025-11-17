@@ -1,6 +1,7 @@
 # Table of Contents
 - [Overview](#overview)
 - [Tools I used to complete the specialization](#tools-i-used-to-complete-the-specialization)
+	- [Important Update](#important-update)
 	- [Getting Started on a python environment](#getting-started-on-a-python-environment)
 		- [Notes](#notes)
 - [Learning outcome of each assignment](#learning-outcome-of-each-assignment)
@@ -33,8 +34,15 @@ To complete the course, I chose to install MambaForge on a portable USB, and set
 - **Matplotlib** for plotting, an open-source Python library with extensive plotting functionality.
 - **Turi Create** for pre-implemented ML algorithms (only in fundamental assignments), an open-source package that has seen an exciting adoption curve, especially in industry with folks building real applications.
 
+## Important Update
+After completing the foundations course and doing a technical interview with Oracle (which I failed), I realised that many of the suggested tools are abandoned by the industry, here is the stack I migrated to:
+- Data Manipulation: SFrame -> **Pandas** (must-know skill)
+- Matrix Operations: **Numpy** (universal)
+- Plotting: Matplotlib -> **Seaborn** (built on Matplotlib)
+- ML Library: TuriCreate -> **Scikit-learn** (industry standard for classical ML)
+
 ## Getting Started on a python environment
-Even if you chose to work directly on your computer you'll still find the following step-by-step guide helpful:
+Even if you chose to work directly on your computer, a virtual environment is strongly recommended in order to avoid potential conflicts with other packages.
 
 1- The USB needs ext4 filesystem
 
