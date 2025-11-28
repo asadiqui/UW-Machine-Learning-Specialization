@@ -4,15 +4,9 @@
 	- [Important Update](#important-update)
 	- [Getting Started on a python environment](#getting-started-on-a-python-environment)
 		- [Notes](#notes)
-- [Learning outcome of each assignment](#learning-outcome-of-each-assignment)
-	- [Course 1 - Foundations](#course-1---foundations)
-		- [Module 2 - Regression](#module-2---regression)
-		- [Module 3 - Classification](#module-3---classification)
-		- [Module 4 - Clustering & Similarity](#module-4---clustering--similarity)
-		- [Module 5 - Recommender Systems](#module-5---recommender-systems)
-		- [Module 6 - Deep Learning](#module-6---deep-learning)
-	- [Course 2 - Regression](#course-2---regression)
-		- [Module 2 - Simple Regression](#module-2---simple-regression)
+- [Assignments](#assignments)
+	- [Course 1](#course-1---foundations)
+	- [Course 2](#course-2---regression)
 
 # Overview
 This specialization, developed by researchers at the University of Washington, provides an introduction to the field of Machine Learning.
@@ -89,45 +83,16 @@ jupyter notebook
 
 6- ```mamba deactivate``` when you're done
 
-# Learning outcome of each assignment
+# Assignments
 
 ## Course 1 - Foundations
-### Module 2 - Regression
-- Execute programs with the Jupyter notebook
-- Load and transform real, tabular data
-- Compute summaries and statistics of the data
-- **Build a regression model using features of the data**
-### Module 3 - Classification
-- Execute sentiment analysis code with the Jupyter notebook
-- Load and transform real, text data
-- Using the .apply() function to create new columns (features) for our model
-- Compare results of two models, one using all words and the other using a subset of the words
-- Compare learned models with majority class prediction
-- Examine the predictions of a sentiment model 
-- **Build a sentiment analysis model using a classifier**
-### Module 4 - Clustering & Similarity
-- Execute document retrieval code with the Jupyter notebook
-- Load and transform real, text data
-- Compare results with word counts and TF-IDF
-- Set the distance function in the retrieval
-- **Build a document retrieval model using nearest neighbor search**
-### Module 5 - Recommender Systems
-- Execute song recommendation code with the Jupyter notebook
-- Load and transform real, song data
-- **Build a song recommender model**
-- Use the model to recommend songs to individual users
-- Use groupby to compute aggregate statistics of the data
-### Module 6 - Deep Learning
-- Load and transform real image data
-- Use the Sketch method to view statistics of data
-- **Build image retrieval models using nearest neighbor search and deep features**
-- Compare the results of various image retrieval models
-- Use the apply and sum methods to compute functions of the data
+- Module 1 - Welcome : [SFrames](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c1%20-%20Foundations/m1%20-%20Welcome/people-wiki_assignment.ipynb)
+- Module 2 - Regression : [Predicting house prices](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c1%20-%20Foundations/m2%20-%20Regression/regression_assignment.ipynb)
+- Module 3 - Classification : [Analyzing product sentiment](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c1%20-%20Foundations/m3%20-%20Classification/classification_assignment.ipynb)
+- Module 4 - Clustering & Similarity : [Retrieving Wikipedia articles](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c1%20-%20Foundations/m4%20-%20Clustering%20%26%20Similarity/clustering_assignment.ipynb)
+- Module 5 - Recommender Systems : [Recommending songs](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c1%20-%20Foundations/m5%20-%20Recommender%20Systems/recsys_assignment.ipynb)
+- Module 6 - Deep Learning : [Deep features for image retrieval](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c1%20-%20Foundations/m6%20-%20Deep%20Learning/deep_learning_assignment.ipynb)
 
 ## Course 2 - Regression
-### Module 2 - Simple Regression
-- Use SArray and SFrame functions to compute important summary statistics
-- Write a function to compute the Simple Linear Regression weights using the closed form solution
-- Write a function to make predictions of the output given the input feature
-- Turn the regression around to predict the input/feature given the output
-- **Compare two different models for predicting house prices**
+- Module 2 - Simple Linear Regression : [Fitting a simple linear regression model on housing data](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c2%20-%20Regression/m2%20-%20Simple%20Linear%20Regression/assignment.ipynb)
+- Module 3 - Multiple Regression : [Exploring different multiple regression models for house price prediction](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c2%20-%20Regression/m3%20-%20Multiple%20Regression/assignment_1.ipynb)
