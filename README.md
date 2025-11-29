@@ -95,4 +95,6 @@ jupyter notebook
 
 ## Course 2 - Regression
 - Module 2 - Simple Linear Regression : [Fitting a simple linear regression model on housing data](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c2%20-%20Regression/m2%20-%20Simple%20Linear%20Regression/assignment.ipynb)
-- Module 3 - Multiple Regression : [Exploring different multiple regression models for house price prediction](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c2%20-%20Regression/m3%20-%20Multiple%20Regression/assignment_1.ipynb)
+- Module 3 - Multiple Regression :
+	- [Exploring different multiple regression models for house price prediction](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c2%20-%20Regression/m3%20-%20Multiple%20Regression/assignment_1.ipynb)
+	- [Implementing gradient descent for multiple regression](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c2%20-%20Regression/m3%20-%20Multiple%20Regression/assignment_2.ipynb)
