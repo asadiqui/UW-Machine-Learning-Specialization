@@ -99,3 +99,5 @@ jupyter notebook
 	- [Exploring different multiple regression models for house price prediction](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c2%20-%20Regression/m3%20-%20Multiple%20Regression/assignment_1.ipynb)
 	- [Implementing gradient descent for multiple regression](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c2%20-%20Regression/m3%20-%20Multiple%20Regression/assignment_2.ipynb)
 - Module 4 - Assessing Performance - [Exploring the bias-variance tradeoff](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c2%20-%20Regression/m4%20-%20Assessing%20Performance/assignment.ipynb)
+- Module 5 - Ridge Regression:
+	- [Observing effects of L2 penalty in polynomial regression](https://github.com/asadiqui/UW-Machine-Learning-Specialization/blob/main/c2%20-%20Regression/m4%20-%20Ridge%20Regression/assignment_1.ipynb)
